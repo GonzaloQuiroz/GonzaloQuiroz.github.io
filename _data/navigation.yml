@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: https://github.com/GonzaloQuiroz/GonzaloQuiroz.github.io/raw/master/files/CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  - #title: "Guide"
+    #url: /markdown/
