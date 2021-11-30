@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: https://github.com/GonzaloQuiroz/GonzaloQuiroz.github.io/raw/master/files/CV.pdf
+permalink: /files/CV.pdf
 author_profile: true
 redirect_from:
   - /resume
