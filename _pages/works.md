@@ -4,14 +4,14 @@ title: "Works"
 permalink: /works/
 author_profile: true
 ---
-" Real Exchange Rate with Inflation Targeting in Chile an USA"
+## " Real Exchange Rate with Inflation Targeting in Chile an USA"
 --- 
 This work tries to explain the behavior of the exchange rate in Chile, making a comparison with the exchange rate in the United States.
 
 [codes here](https://github.com/GonzaloQuiroz/Works)
 
 ---
-" Replicate paper “Ex-Post Assessment of Heterogeneous Effects of Free Trade Agreements: The Case of Turkey.” "
+## " Replicate paper “Ex-Post Assessment of Heterogeneous Effects of Free Trade Agreements: The Case of Turkey.” "
 
 --- 
 
