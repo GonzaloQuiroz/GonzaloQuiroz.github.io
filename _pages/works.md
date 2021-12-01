@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Works"
-permalink: /works/work_1.md
+permalink: /works
 author_profile: true
 ---
 
