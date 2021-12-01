@@ -12,7 +12,9 @@ This work tries to explain the behavior of the exchange rate in Chile, making a 
 
 ---
 " Replicate paper “Ex-Post Assessment of Heterogeneous Effects of Free Trade Agreements: The Case of Turkey.” "
+
 --- 
+
 In this work, we replicate the “Ex-Post Assessment of Heterogeneous Effects of Free Trade Agreements: The Case of Turkey.” using South Africa as the main country.
 
 [codes here](https://github.com/GonzaloQuiroz/Turkey-work)
